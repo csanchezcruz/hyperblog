@@ -1,4 +1,10 @@
 hitorua
 Escritorio
+<<<<<<< HEAD
 cambio de vida
 otro cambio
+=======
+
+
+Maña nos enfocaremos en si historia laboral
+>>>>>>> cabecera
