@@ -1,10 +1,7 @@
-hitorua
-Escritorio
-<<<<<<< HEAD
-cambio de vida
-otro cambio
-=======
+Esta es la historia de Freddy Vega
 
+Freddy Vega tiene 32 años y nació en Colombia
 
-Maña nos enfocaremos en si historia laboral
->>>>>>> cabecera
+Anita Platzi tiene 41 años y nació en Internet
+
+Mañana nos enfocaremos en su vida laboral
